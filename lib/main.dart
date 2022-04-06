@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
-import './Question.dart';
+import 'question.dart';
 import 'answer.dart';
-
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
